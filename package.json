@@ -1,0 +1,21 @@
+{
+    "name": "michaels-theme",
+    "displayName": "Michaels Theme",
+    "description": "Color Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Michaels Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Michaels Theme-color-theme.json"
+            }
+        ]
+    }
+}
