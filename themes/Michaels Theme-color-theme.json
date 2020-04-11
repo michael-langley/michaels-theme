@@ -2,14 +2,14 @@
   "name": "Michael's Atom Material Theme",
   "type": "dark",
   "colors": {
-    "activityBar.background": "#313a3f",
+    "activityBar.background": "#222c2e",
     "activityBar.dropBackground": "#009688",
     "activityBar.foreground": "#a7b6b8",
     "activityBarBadge.background": "#009688",
     "diffEditor.insertedTextBackground": "#00ff001a",
     "diffEditor.removedTextBackground": "#ff00001a",
-    "dropdown.background": "#313a3f",
-    "editor.background": "#313a3f",
+    "dropdown.background": "#222c2e",
+    "editor.background": "#222c2e",
     "editor.findMatchBackground": "#0096887a",
     "editor.foreground": "#d4d4d4",
     "editor.lineHighlightBackground": "#212b30",
@@ -54,7 +54,7 @@
     "scrollbarSlider.activeBackground": "#a7b6b840",
     "scrollbarSlider.background": "#20292e7f",
     "scrollbarSlider.hoverBackground": "#20292ebf",
-    "sideBar.background": "#313a3f",
+    "sideBar.background": "#222c2e",
     "sideBar.foreground": "#dae0e0",
     "sideBarSectionHeader.background": "#20292e",
     "sideBarSectionHeader.foreground": "#a7b6b8",
@@ -83,7 +83,7 @@
     "terminal.ansiRed": "#ff5d4e",
     "terminal.ansiWhite": "#e6e5e5",
     "terminal.ansiYellow": "#ffcb43",
-    "terminal.background": "#263238",
+    "terminal.background": "#222c2e",
     "terminal.foreground": "#e6e5e5",
     "titleBar.activeBackground": "#222d32"
   },
@@ -256,7 +256,7 @@
         "keyword.type.graphql"
       ],
       "settings": {
-        "foreground": "#C792EA",
+        "foreground": "#c8defd",
         "fontStyle": "italic"
       }
     },
@@ -356,7 +356,7 @@
         "variable.language.this.ts"
       ],
       "settings": {
-        "foreground": "#FF5370"
+        "foreground": "#ff002b"
       }
     },
     {
